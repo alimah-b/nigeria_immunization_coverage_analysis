@@ -1,7 +1,10 @@
-<img width="1633" height="30" alt="image" src="https://github.com/user-attachments/assets/97ef2c4c-e0dc-44b3-84b5-02dfdd3b6b06" /># Nigeria Immunization Coverage Analysis
+## Nigeria Immunization Coverage Analysis
 ## Project Overview
 This project analyses the routine immunization coverage in Nigeria from 2015-2025, with a focus on program performance coverage gaps, vaccine dropout rates, key performance indicators and recovery following the COVID-19 disruption period.
 The analysis was developed using Microsoft Excel to demonstrate practical skills in data visualization and evidence-based interpretation.
+
+## Dashboard Preview
+<img width="935" height="266" alt="Immunization_Dashboard_Preview" src="https://github.com/user-attachments/assets/31a9444e-ebe2-4dc9-9236-49e5623a047f" />
 
 ## Objectives
 The analysis aims to:
@@ -41,7 +44,7 @@ The analysis focuses on:
 ## Area for Further Investigation
 1. What factors contributed to the larger MCV1-MCV2 completion gap compared with DTP1-DTP3?												
 2. Which states, LGAs or facilities account for the largest MCV2 coverage gaps?												
-3. What programme or service-delivery factors contributed to the 2019-2021 decline and the subsequent partial recovery?			4. Are missed opportunities, vaccine availability, geographic access or follow-up mechanisms contributing to later dose
+3. What programme or service-delivery factors contributed to the 2019-2021 decline and the subsequent partial recovery?		4. Are missed opportunities, vaccine availability, geographic access or follow-up mechanisms contributing to later dose
    dropout?
 
 ## File
@@ -53,4 +56,3 @@ WHO/UNICEF Estimates of National Immunization Coverage (WUENIC)
 ## Disclaimer
 This is a portfolio analysis conducted for learning and demonstration purposes only.
 
-														
